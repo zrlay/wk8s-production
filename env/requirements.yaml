@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.37
 - name: wkpython
   repository: http://jenkins-x-chartmuseum:8080
-  version: v6.0.140
+  version: v6.0.142
